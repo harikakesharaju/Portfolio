@@ -1,0 +1,26 @@
+[
+    {
+        "title":"Online Food Delivery Website",
+        "imgsrc":"projects/food.png",
+        "description":"Platform where customers effortlessly navigate through categorized menus, explore items using convenient filters, and seamlessly add selections to their carts. With integrated login, registration, and checkout functionalities, it ensures a smooth and satisfying ordering process from start to finish." ,
+        "skills":["MongoDB","Express" ,"React","NodeJS"],
+        "code":"https://github.com/harikakesharaju/Food_Delivery"
+
+    },
+    {
+        "title":"Anime Generator",
+        "imgsrc":"projects/anime.png",
+        "description":"Anime Generator web application that fetches and displays random anime images and artist names from an API. It uses HTML, CSS, and JavaScript to create an interactive interface with a button that, when clicked, retrieves and shows an anime image and artist information." ,
+        "skills":["HTML","CSS" ,"JavaScript","Bootstrap","API Integration"],
+        "code":"https://github.com/harikakesharaju/Food_Delivery"
+
+    },
+    {
+        "title":"Resume Creator",
+        "imgsrc":"projects/resume.png",
+        "description":"Resume Creator web application that allows users to input their resume details, and then generate and preview a formatted resume. It uses HTML, CSS, and JavaScript to switch between input form and resume preview, with the option to print the resume." ,
+        "skills":["HTML","CSS" ,"JavaScript","DOM Manipulation","Form Handling"],
+        "code":"https://github.com/harikakesharaju/Coding_Raja_Technologies_Internship"
+
+    }
+]
